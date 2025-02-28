@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align:center;
+
+}
+img{
+  padding-left:400px
+}
+p{
+  text-align:center;
+}
+#details{
+  padding-left:cover;
+  padding-bottom:140px;
+  background-color:red;
+}
+.subsec{
+  float:left;
+  display:block;
+  padding-top:20px;
+  padding-left:300px;
+
+}
+pre{
+  text-align:center;
+}
+#navbar a{
+  background-color:grey;
+  text-align:center;
+  padding-left:20px;
+  text-decoration:underline;
+}
+
+
+#caption{
+  display:block;
+  padding-left:400px;
+}
+#navpad{
+  padding-left:650px;
+}
